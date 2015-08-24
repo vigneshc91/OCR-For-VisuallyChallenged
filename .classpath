@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/Tess4J-1.3-src/Tess4J/lib/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/Tess4J-1.3-src/Tess4J/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/Tess4J-1.3-src/Tess4J/dist/tess4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/JOrtho_1.0/jortho.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/gtranslateapi-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/jl1.0.jar"/>
+	<classpathentry kind="lib" path="E:/software/software for study/java/Java notification/Jtelegraph/JTelegraph-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/software/software for study/java/Java notification/Jtelegraph/JCarrierPigeon-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/software/software for study/java/Java notification/Jtelegraph/timingframework-classic-1.1/lib/timingframework-classic-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/cmudict04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/jsapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jagadesh/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/mbrola.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
